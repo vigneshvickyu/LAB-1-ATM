@@ -26,15 +26,7 @@ REG.NO:212222240046
 ### COMMUNICATION DIAGRAM:
 ![](ATM-COMMUNICATION.png)
 ### PACKAGE DAIGRAM:
-
 ![](ATM-PACKAGE.png)
-
-
-
-
-
-
-
 
 ### RESULT: 
 Thus the Atm and banking System project was executed and the output was verified.

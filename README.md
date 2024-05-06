@@ -31,5 +31,14 @@ REG.NO:212223240176
 ![Screenshot 2024-04-22 104449](https://github.com/vigneshvickyu/LAB-1-ATM/assets/151948835/5a9b9900-0258-4712-8196-203b6b3acf56)
 
 
+
+
+
+
+
+
+
+
+
 ### RESULT: 
 Thus the Atm and banking System project was executed and the output was verified.

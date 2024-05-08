@@ -24,6 +24,10 @@ REG.NO:212223240176
 ### ACTIVITY DAIGRAM:
 ![Screenshot 2024-04-22 104349](https://github.com/vigneshvickyu/LAB-1-ATM/assets/151948835/3e40355d-864c-4b50-a1b8-a851e377ef38)
 
+## STATECHART DIAGRAM
+![Screenshot 2024-05-08 110935](https://github.com/vigneshvickyu/LAB-1-ATM/assets/151948835/98994fed-51e4-4d9f-817d-1913ec32ca1d)
+
+
 ### COMMUNICATION DIAGRAM:
 ![Screenshot 2024-04-22 104419](https://github.com/vigneshvickyu/LAB-1-ATM/assets/151948835/ed4d680b-c648-44ff-b7c3-1b41270aef7f)
 
